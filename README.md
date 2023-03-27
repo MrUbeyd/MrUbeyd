@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrUbeyd
 - 👀 I’m interested in Software Development especially Flutter.
-- 🌱 I’m currently work as a Junior Flutter Developer.
+- 🌱 I’m currently work as a Flutter Developer.
 - 📫 You can reach me at www.linkedin.com/in/mubeyday
 
 <!---
